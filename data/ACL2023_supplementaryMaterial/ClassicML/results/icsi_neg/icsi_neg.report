@@ -1,0 +1,4 @@
+category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
+description	crf_icsi_neg_estimates	80.36	100	17.74	30.1342	86.9667	61.88	64.5265
+name	crf_icsi_neg_estimates	80.36	81.85	73.14	77.2503	86.9667	61.88	64.5265
+pronoun	crf_icsi_neg_estimates	80.36	79.05	94.76	86.195	86.9667	61.88	64.5265

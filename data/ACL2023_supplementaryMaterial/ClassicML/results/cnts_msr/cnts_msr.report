@@ -1,0 +1,4 @@
+category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
+description	knn_cnts_msr_estimates	68.59	53.68	31.88	40.0028	65.5433	60.7133	61.3922
+name	knn_cnts_msr_estimates	68.59	76.79	61.75	68.4536	65.5433	60.7133	61.3922
+pronoun	knn_cnts_msr_estimates	68.59	66.16	88.51	75.7202	65.5433	60.7133	61.3922
