@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	crf_icsi_msr_estimates	71.19	51.69	38.12	43.8798	67.1433	64.11	64.7346
-name	crf_icsi_msr_estimates	71.19	80.33	66.82	72.9548	67.1433	64.11	64.7346
-pronoun	crf_icsi_msr_estimates	71.19	69.41	87.39	77.3691	67.1433	64.11	64.7346

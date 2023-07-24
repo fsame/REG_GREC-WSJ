@@ -1,0 +1,4 @@
+category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
+description	maxent_osu_wsj_estimates	69.2	72.7	56.91	63.8432	69.8967	70.36	69.6324
+name	maxent_osu_wsj_estimates	69.2	63.56	73.3	68.0834	69.8967	70.36	69.6324
+pronoun	maxent_osu_wsj_estimates	69.2	73.43	80.87	76.9706	69.8967	70.36	69.6324

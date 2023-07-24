@@ -1,0 +1,4 @@
+category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
+description	knn_cnts_wsj_estimates	64.31	63.67	63.3	63.4845	65.3033	64.1967	64.5874
+name	knn_cnts_wsj_estimates	64.31	60.34	66.75	63.3834	65.3033	64.1967	64.5874
+pronoun	knn_cnts_wsj_estimates	64.31	71.9	62.54	66.8942	65.3033	64.1967	64.5874

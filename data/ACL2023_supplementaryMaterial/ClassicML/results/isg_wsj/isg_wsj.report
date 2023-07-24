@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	mlp_isg_wsj_estimates	69.15	73.88	63.41	68.2458	70.4767	69.1367	69.3482
-name	mlp_isg_wsj_estimates	69.15	62.19	76.64	68.663	70.4767	69.1367	69.3482
-pronoun	mlp_isg_wsj_estimates	69.15	75.36	67.36	71.1358	70.4767	69.1367	69.3482

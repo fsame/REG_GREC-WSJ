@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	maxent_osu_neg_estimates	79.24	100	4.84	9.2331	86.0933	57.37	57.0405
-name	maxent_osu_neg_estimates	79.24	79.01	72.07	75.3806	86.0933	57.37	57.0405
-pronoun	maxent_osu_neg_estimates	79.24	79.27	95.2	86.5078	86.0933	57.37	57.0405

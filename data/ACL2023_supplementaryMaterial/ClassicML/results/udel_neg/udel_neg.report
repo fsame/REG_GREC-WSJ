@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	c5_udel_neg_estimates	80.8	0.001	0.001	0.001	53.5703	57.487	55.4526
-name	c5_udel_neg_estimates	80.8	76.65	80.32	78.4421	53.5703	57.487	55.4526
-pronoun	c5_udel_neg_estimates	80.8	84.06	92.14	87.9147	53.5703	57.487	55.4526

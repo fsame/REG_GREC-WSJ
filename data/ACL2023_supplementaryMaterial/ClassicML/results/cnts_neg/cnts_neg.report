@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	knn_cnts_neg_estimates	78.68	75	14.52	24.3298	77.3867	59.8433	61.6179
-name	knn_cnts_neg_estimates	78.68	77.84	72.87	75.2731	77.3867	59.8433	61.6179
-pronoun	knn_cnts_neg_estimates	78.68	79.32	92.14	85.2507	77.3867	59.8433	61.6179

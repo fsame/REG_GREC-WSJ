@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	maxent_osu_msr_estimates	68.02	53.57	28.12	36.8806	64.0533	59.51	60.279
-name	maxent_osu_msr_estimates	68.02	69.39	68.43	68.9067	64.0533	59.51	60.279
-pronoun	maxent_osu_msr_estimates	68.02	69.2	81.98	75.0498	64.0533	59.51	60.279

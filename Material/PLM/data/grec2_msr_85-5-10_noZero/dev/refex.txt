@@ -1,0 +1,519 @@
+eos Algiers eos
+eos the city proper eos
+eos its eos
+eos it eos
+eos its eos
+eos the city eos
+eos Bamako eos
+eos It eos
+eos Bamako eos
+eos Bamako eos
+eos Bangui eos
+eos Bangui eos
+eos Belmopan eos
+eos Belmopan eos
+eos Belmopan eos
+eos Belmopan eos
+eos Belmopan eos
+eos Belmopan eos
+eos Blantyre eos
+eos Blantyre eos
+eos Blantyre eos
+eos Blantyre eos
+eos Blantyre eos
+eos Djibouti City eos
+eos this city eos
+eos Djibouti eos
+eos Djibouti eos
+eos its eos
+eos the city eos
+eos it eos
+eos Djibouti eos
+eos It eos
+eos Djibouti eos
+eos Djibouti City eos
+eos its eos
+eos Manama eos
+eos Manama eos
+eos Manama eos
+eos It eos
+eos It eos
+eos Manama eos
+eos Manama eos
+eos Manama eos
+eos Manama eos
+eos it eos
+eos Manama eos
+eos Al Manamah eos
+eos it eos
+eos Nassau eos
+eos The city eos
+eos Nassau eos
+eos Nassau eos
+eos The city's eos
+eos its eos
+eos The city eos
+eos Port of Spain eos
+eos It eos
+eos The city eos
+eos It eos
+eos It eos
+eos the city eos
+eos Port of Spain eos
+eos Sarajevo  eos
+eos It eos
+eos Sarajevo eos
+eos The city eos
+eos its eos
+eos the modern city eos
+eos it eos
+eos Sarajevo eos
+eos its eos
+eos it eos
+eos Sarajevo eos
+eos the city eos
+eos Valletta eos
+eos American Samoa eos
+eos the territory eos
+eos American Samoa eos
+eos Anguilla eos
+eos It eos
+eos the territory eos
+eos The Coral Sea Islands Territory eos
+eos The territory eos
+eos Côte d'Ivoire eos
+eos It eos
+eos its eos
+eos the country eos
+eos the country's eos
+eos Micronesia eos
+eos The country eos
+eos The Federated States of Micronesia eos
+eos they eos
+eos The Federated States of Micronesia eos
+eos the Federated States eos
+eos The Republic of Finland eos
+eos it eos
+eos Finland eos
+eos Finland eos
+eos Finland eos
+eos it eos
+eos Finland eos
+eos The Grand Duchy of Luxembourg eos
+eos Luxembourg eos
+eos Luxembourg eos
+eos It eos
+eos Luxembourg eos
+eos Luxembourg eos
+eos Luxembourg eos
+eos Luxembourg eos
+eos Myanmar eos
+eos it eos
+eos Myanmar's eos
+eos Myanmar's eos
+eos its eos
+eos Its eos
+eos Myanmar eos
+eos its eos
+eos The country's eos
+eos Sierra Leone eos
+eos It eos
+eos Sierra Leone eos
+eos the country eos
+eos the country eos
+eos Wallis and Futuna eos
+eos They eos
+eos Wallis and Futuna eos
+eos it eos
+eos Antisana eos
+eos It eos
+eos Antisana eos
+eos Antuco Volcano eos
+eos Baba Mountain eos
+eos Its eos
+eos Baba mountain eos
+eos Bluff Knoll eos
+eos It eos
+eos the mountain eos
+eos The mountain eos
+eos Bluff Knoll eos
+eos the bluff eos
+eos Bluff Knoll eos
+eos Buachaille Etive Mòr eos
+eos Its eos
+eos it eos
+eos Buachaille Etive Mòr eos
+eos the mountain eos
+eos Buachaille Etive Mòr eos
+eos its eos
+eos Carrauntoohil eos
+eos It eos
+eos the peak eos
+eos The mountain eos
+eos Carrauntoohil eos
+eos the mountain eos
+eos the peak eos
+eos the mountain eos
+eos Crazy Peak eos
+eos Crazy Peak eos
+eos Crazy Peak eos
+eos the mountain eos
+eos The mountain eos
+eos El Altar eos
+eos it eos
+eos it eos
+eos it eos
+eos El Piveto Mountain eos
+eos It eos
+eos Glass Mountain eos
+eos It eos
+eos Gongga Shan eos
+eos It eos
+eos It eos
+eos The peak eos
+eos the mountain eos
+eos The Gran Paradiso eos
+eos The peak eos
+eos The Gran Paradiso eos
+eos The Grand Combin eos
+eos It eos
+eos The Grand Combin eos
+eos Gyachung Kang eos
+eos It eos
+eos it eos
+eos it eos
+eos The mountain eos
+eos Hallasan eos
+eos Hallasan eos
+eos the mountain eos
+eos Hallasan eos
+eos Illiniza eos
+eos Illiniza eos
+eos The Illinizas eos
+eos Incahuasi eos
+eos it eos
+eos Incahuasi eos
+eos Iztaccíhuatl eos
+eos Its eos
+eos The mountain eos
+eos Iztaccíhuatl eos
+eos the mountain eos
+eos This eos
+eos Iztaccíhuatl eos
+eos K2 eos
+eos It eos
+eos K2 eos
+eos K2 eos
+eos Kanjut Sar eos
+eos It eos
+eos Kanjut Sar eos
+eos Maromokotro eos
+eos It eos
+eos Mont Blanc de Cheilon eos
+eos the mountain eos
+eos Mount Andrus eos
+eos Andrus eos
+eos its eos
+eos Mt. Andrus eos
+eos Mt. Andrus eos
+eos the mountain eos
+eos Mount Charleston eos
+eos It eos
+eos it eos
+eos Mount Charleston eos
+eos The mountain eos
+eos which eos
+eos Mount Charleston eos
+eos its eos
+eos Its eos
+eos it eos
+eos the peak eos
+eos Mount Cook eos
+eos It eos
+eos It eos
+eos Mount Cook eos
+eos It eos
+eos Mount Cook eos
+eos its eos
+eos it eos
+eos It eos
+eos its eos
+eos the mountain eos
+eos the peak eos
+eos Mount Democrat eos
+eos It eos
+eos It eos
+eos Mt. Kadam eos
+eos Mount Katmai eos
+eos It eos
+eos Mount Leuser eos
+eos the mountain eos
+eos its eos
+eos the volcano eos
+eos Mount Leuser eos
+eos Mount Melbourne eos
+eos it eos
+eos Mt. Melbourne eos
+eos the volcano eos
+eos Mount Niblock eos
+eos The mountain eos
+eos Mt. Niblock eos
+eos Mt. Niblock eos
+eos Mt. Niblock eos
+eos Mount Pirongia eos
+eos It eos
+eos It eos
+eos It eos
+eos It eos
+eos Mount Saint John eos
+eos The mountain eos
+eos Mount Silberhorn eos
+eos It eos
+eos Mount Spurr eos
+eos Mount Spurr eos
+eos Spurr eos
+eos this volcano eos
+eos Mount Tarawera eos
+eos It eos
+eos the volcano eos
+eos The volcano eos
+eos the mountain eos
+eos Mount Woolley eos
+eos It eos
+eos Mount Wrangell eos
+eos The shield eos
+eos its eos
+eos Its eos
+eos it eos
+eos Wrangell's eos
+eos Wrangell eos
+eos Wrangell eos
+eos it eos
+eos Wrangell eos
+eos its eos
+eos Wrangell eos
+eos Wrangell eos
+eos Parseierspitze eos
+eos It eos
+eos its eos
+eos It eos
+eos Pen y Fan eos
+eos it eos
+eos Pen y Fan eos
+eos Pen y Fan eos
+eos The mountain eos
+eos Pico Duarte eos
+eos It eos
+eos Scafell Pike eos
+eos It eos
+eos It eos
+eos it eos
+eos Scafell Pike eos
+eos Signal Mountain eos
+eos The mountain eos
+eos Signal Mountain eos
+eos The mountain eos
+eos The peak eos
+eos Signal Mountain eos
+eos the mountain eos
+eos Astrid Anna Emilia Lindgren eos
+eos whose eos
+eos Astrid Lindgren eos
+eos her eos
+eos her eos
+eos her eos
+eos her eos
+eos she eos
+eos her eos
+eos she eos
+eos She eos
+eos Lindgren eos
+eos her eos
+eos Lindgren eos
+eos she eos
+eos she eos
+eos her eos
+eos she eos
+eos Astrid Lindgren eos
+eos her eos
+eos her eos
+eos she eos
+eos she eos
+eos her eos
+eos she eos
+eos Astrid Lindgren eos
+eos her eos
+eos her eos
+eos Astrid Lindgren's eos
+eos Astrid eos
+eos her eos
+eos Astrid Lindgren's eos
+eos John Amos Comenius eos
+eos He eos
+eos his eos
+eos Comenius eos
+eos David Takayoshi Suzuki eos
+eos who eos
+eos Suzuki's eos
+eos He eos
+eos Florence Nightingale eos
+eos who eos
+eos George Washington eos
+eos He eos
+eos his eos
+eos Washington eos
+eos His eos
+eos him eos
+eos his eos
+eos his eos
+eos Washington eos
+eos Washington eos
+eos his eos
+eos his eos
+eos his eos
+eos him eos
+eos He eos
+eos he eos
+eos he eos
+eos his eos
+eos He eos
+eos he eos
+eos Washington eos
+eos himself eos
+eos he eos
+eos his eos
+eos his eos
+eos he eos
+eos Washington eos
+eos He eos
+eos His eos
+eos He eos
+eos he eos
+eos Washington eos
+eos he eos
+eos his eos
+eos he eos
+eos he eos
+eos he eos
+eos Washington's eos
+eos Washington eos
+eos him eos
+eos he eos
+eos John George Diefenbaker eos
+eos Diefenbaker eos
+eos his eos
+eos him eos
+eos his eos
+eos Konrad Hermann Josef Adenauer eos
+eos his eos
+eos he eos
+eos his eos
+eos He eos
+eos Lawrence Henry (""Larry"") Summers eos
+eos He eos
+eos his eos
+eos Summers eos
+eos his eos
+eos Summers eos
+eos Summers eos
+eos he eos
+eos Louis ""David"" Riel eos
+eos He eos
+eos Riel eos
+eos Riel eos
+eos he eos
+eos he eos
+eos he eos
+eos his eos
+eos he eos
+eos he eos
+eos his eos
+eos He eos
+eos Riel eos
+eos his eos
+eos Riel eos
+eos his eos
+eos he eos
+eos Michael Richard Weir eos
+eos Weir eos
+eos He eos
+eos he eos
+eos His eos
+eos him eos
+eos Weir eos
+eos Mike eos
+eos Weir eos
+eos he eos
+eos Weir eos
+eos who eos
+eos he eos
+eos he eos
+eos his eos
+eos Weir eos
+eos he eos
+eos he eos
+eos He eos
+eos Weir eos
+eos his eos
+eos Weir's eos
+eos Weir himself eos
+eos Mike's eos
+eos Seyyed Mohammad Khatami eos
+eos He eos
+eos He eos
+eos Khatami eos
+eos Khatami eos
+eos him eos
+eos he eos
+eos his eos
+eos His eos
+eos Robert Norman Munsch eos
+eos George Kastrioti eos
+eos He eos
+eos He eos
+eos his eos
+eos his eos
+eos Tecumseh eos
+eos whose eos
+eos He eos
+eos his eos
+eos his eos
+eos Tecumseh eos
+eos his eos
+eos his eos
+eos Tecumseh eos
+eos François-Marie Arouet eos
+eos Voltaire eos
+eos his eos
+eos He eos
+eos he eos
+eos his eos
+eos his eos
+eos Voltaire eos
+eos his eos
+eos William Caxton eos
+eos He eos
+eos He eos
+eos his eos
+eos The River Krishna eos
+eos It eos
+eos It eos
+eos Krishna river eos
+eos the river eos
+eos Krishna eos
+eos its eos
+eos Krishna eos
+eos Krishna eos
+eos The São Francisco River eos
+eos It eos
+eos It eos
+eos It eos
+eos the river eos
+eos the river eos
+eos the river eos
+eos The Yenisei eos
+eos It eos
+eos it eos
+eos Its eos
+eos the Yenisei eos
+eos it eos

@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	c5_udel_msr_estimates	66.86	55.36	19.38	28.7096	64.0933	56.7	56.7553
-name	c5_udel_msr_estimates	66.86	72.39	62.21	66.915	64.0933	56.7	56.7553
-pronoun	c5_udel_msr_estimates	66.86	64.53	88.51	74.6413	64.0933	56.7	56.7553

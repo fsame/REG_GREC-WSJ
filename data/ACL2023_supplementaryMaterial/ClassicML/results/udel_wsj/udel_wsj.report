@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	c5_udel_wsj_estimates	63.74	60.29	62.95	61.5913	63.9033	65.2767	64.2305
-name	c5_udel_wsj_estimates	63.74	60.42	49.44	54.3813	63.9033	65.2767	64.2305
-pronoun	c5_udel_wsj_estimates	63.74	71	83.44	76.719	63.9033	65.2767	64.2305

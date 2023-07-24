@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	mlp_isg_msr_estimates	67.05	57.97	25	34.9343	64.8433	58.0733	58.8274
-name	mlp_isg_msr_estimates	67.05	71.46	65.21	68.1921	64.8433	58.0733	58.8274
-pronoun	mlp_isg_msr_estimates	67.05	65.1	84.01	73.3559	64.8433	58.0733	58.8274

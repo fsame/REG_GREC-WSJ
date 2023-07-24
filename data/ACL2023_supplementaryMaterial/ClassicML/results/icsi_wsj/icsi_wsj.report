@@ -1,4 +1,0 @@
-category	modelname	accuracy	classPreciosion	classRecall	classF1	macroPrecision	macroRecall	macroF1
-description	crf_icsi_wsj_estimates	64.62	81.92	40.53	54.2298	69.7667	65.5133	64.1556
-name	crf_icsi_wsj_estimates	64.62	55.21	86.4	67.3702	69.7667	65.5133	64.1556
-pronoun	crf_icsi_wsj_estimates	64.62	72.17	69.61	70.8669	69.7667	65.5133	64.1556
